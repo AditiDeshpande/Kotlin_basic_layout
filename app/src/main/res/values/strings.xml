@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Aditi</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hello, Myself Aditi Sunita Ulhas Deshpande.
+        \n\nI am Post Graduate in Computer Science from Pune University. (Msc. Comp. Sci)
+        I have 5 years 6 months of experience as an Android Developer.
+        1 year 4 months experience in teaching programming languages C,C++,Java, Adv.Java, C# Dot net, ASP Dot Net before joining IT company as a developer.
+        Currently upgrading myself , self learning Latest Android frameworks, Kotlin, Web development (HTML5, CSS5, Python, JavaScript)
+        \n\nAlso self learning German. Preparing for A2 level.
+        \n\nI am very much interested in art and crafts. I own my small business of art and crafts. I love singing. I love travelling to peaceful places
+        completely surrounded by beautiful nature.
+        \n\nI do Yog/Yoga daily for my fitness. </string>
+</resources>
